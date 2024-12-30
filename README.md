@@ -1,4 +1,4 @@
-# RUS-Software-Engineer-AI
+# RUST-Software-Engineer-AI
 If you’re passionate about open source, distributed systems, RAG and AI internals, and agentic applications we want to hear from you.
 
 Who We Are Looking For
